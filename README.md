@@ -1,4 +1,4 @@
-# [atordvairn.js](https://atordvairn.github.io/atordvairn.js/)
+# [doubledollar.js](https://etoraghab.github.io/doubledollar.js/)
 ## Usage
 
 Put these codes **inside** your `<head>` tag
