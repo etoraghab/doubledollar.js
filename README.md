@@ -4,9 +4,9 @@
 Put these codes **inside** your `<head>` tag
 
 ```html
-<link rel="preconnect" href="https://unpkg.com/">
-<link rel="dns-prefetch" href="https://unpkg.com/">
-<script src="https://cdn.jsdelivr.net/gh/atordvairn/atordvairn.js@c2f4df1026d5787be1fc88d9f8c49d1c727eab45/atordvairn.js"></script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net/">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net/">
+<script src="https://cdn.jsdelivr.net/gh/etoraghab/doubledollar.js@main/doubledollar.js"></script>
 ```
 
 > Note: If you're targeting old browsers, you might need to use polyfills. E.g. add the following _**before**_ the library import \(c/o [inexorabletash/polyfill](https://github.com/inexorabletash/polyfill)\)
